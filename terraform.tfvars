@@ -1,1 +1,1 @@
-api_key="TpUs0gjvCEDrt8aOipejvlMgVL-CQ2xjfsBn3T3hcLAdM8w9s47uBGY90DnwJvpz"
+api_key=<your_api_key>
